@@ -1,0 +1,101 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "Pizza@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Gurugram",
+      "rating": "4",
+      "email": "mcdonald@gmail"
+    },
+    {
+      "id": 3,
+      "name": "PizzaHut",
+      "address": "Faridabad",
+      "rating": "4.6",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "json-server",
+      "address": "typicode",
+      "rating": "typicode",
+      "email": "typicode"
+    },
+    {
+      "id": 5,
+      "name": "Pizza hutt",
+      "address": "Noida gurugram",
+      "rating": "4.8",
+      "email": "Pizza hutt@gmail.com"
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "",
+      "address": "fdsa",
+      "rating": "sdaf",
+      "email": "mgmanoj90@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "asdsa",
+      "address": "asD",
+      "rating": "DSAFDS",
+      "email": "mgmanoj90@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "mgmanoj90@gmail.com",
+      "address": "mgmanoj90@gmail.com",
+      "rating": "mgmanoj90@gmail.com",
+      "email": "mgmanoj90@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "mgmanoj90@gmail.com",
+      "address": "mgmanoj90@gmail.com",
+      "rating": "mgmanoj90@gmail.com",
+      "email": "mgmanoj90@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "mgmanoj90@gmail.com",
+      "address": "mgmanoj90@gmail.com",
+      "rating": "mgmanoj90@gmail.com",
+      "email": "mgmanoj90@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "",
+      "address": "",
+      "rating": "",
+      "email": "",
+      "id": 12
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
